@@ -25,7 +25,7 @@ export default function Navbar() {
         {/* Logo + nama sekolah */}
         <Link href="/" className="flex items-center gap-3">
           <Image
-            src="/logo.png"
+            src="/images/logo.png"
             alt="Logo SMA Negeri 1 Bawang"
             width={40}
             height={44}
