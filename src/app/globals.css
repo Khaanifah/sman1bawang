@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: var(--font-lato), ui-sans-serif, system-ui, sans-serif;
+  --color-ocean-900: #03045e;
+  --color-ocean-800: #023e8a;
+  --color-ocean-700: #0077b6;
+  --color-ocean-600: #0096c7;
+  --color-ocean-500: #00b4d8;
+  --color-ocean-400: #48cae4;
+  --color-ocean-300: #90e0ef;
+  --color-ocean-200: #ade8f4;
+  --color-ocean-100: #caf0f8;
+}
+
+body {
+  background: #ffffff;
+  color: #1f2937;
+}
