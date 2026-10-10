@@ -15,7 +15,7 @@ export default function Footer() {
         {/* Identitas */}
         <div>
           <div className="flex items-center gap-3">
-            <Image src="/logo.png" alt="Logo SMA Negeri 1 Bawang" width={40} height={44} />
+            <Image src="/images/logo.png" alt="Logo SMA Negeri 1 Bawang" width={40} height={44} />
             <p className="text-lg font-bold text-white">SMA Negeri 1 Bawang</p>
           </div>
           <p className="mt-3 text-sm text-white">
